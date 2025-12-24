@@ -3,7 +3,6 @@
 This project implements a **Q-Learning** agent to solve the OpenAI Gym (Gymnasium) **Taxi-v3** environment. The agent learns an optimal policy to pick up a passenger at one of four locations and drop them off at a specific destination in the fewest steps possible.
 
 
-
 ## 📋 Table of Contents
 * [Overview](#overview)
 * [The Environment](#the-environment)
